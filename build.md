@@ -1,11 +1,12 @@
 Gboard: 17.0.10.880768217-release-arm64-v8a  
-Music: 9.26.55  
 NiagaraLauncher: 1.16.7  
 Pinterest: 14.23.0  
 SmartLauncher: 6.6 build 002  
 Soundcloud: 2026.07.03-release  
 Tumblr: 45.0.0.109  
+YTMusic: 9.26.55  
 YouTube: 21.25.526  
+YouTube_ARM-v7a: 21.25.526  
 
 Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store  
