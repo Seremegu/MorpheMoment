@@ -96,7 +96,6 @@ cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/true-software-scandinavia-ab/truecaller-caller-id-block"
 uptodown-dlurl = "https://truecaller.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/geologically/apks/com.truecaller"
-version = "26.25.8"
 
 [Soundcloud]
 enabled = true
