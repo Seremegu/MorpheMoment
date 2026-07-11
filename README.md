@@ -8,7 +8,7 @@ Get the [latest CI release](https://github.com/Seremegu/MorpheMoment/releases).
 ## Building locally
 ### On Termux
 ```console
-bash <(curl -sSf https://raw.githubusercontent.com/elohim-etz/morphe-builder/main/build-termux.sh)
+bash <(curl -sSf https://raw.githubusercontent.com/Seremegu/MorpheMoment/main/build-termux.sh)
 ```
 
 ### On Linux
