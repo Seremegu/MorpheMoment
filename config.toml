@@ -1,9 +1,9 @@
-enable-module-update = true
+enable-magisk-update = true
 parallel-jobs = 1
 patches-version = "latest"
 cli-version = "latest"
 
-# Use rvmm-config-gen to generate a config
+# Use rvmm-config-gen to generate a config.
 
 [YouTube]
 app-name = "YouTube"
@@ -43,3 +43,14 @@ patches-source = "jasonwu1994/Gboard-patches"
 cli-source = "MorpheApp/morphe-cli"
 uptodown-dlurl = "https://gboard-go.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/gboard"
+
+[Pinterest]
+enabled = true
+app-name = "Pinterest"
+rv-brand = "binarymend"
+riplib = true
+arch = "arm64-v8a"
+patches-source = "binarymend/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+uptodown-dlurl = "https://pinterest.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/pinterest
