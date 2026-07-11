@@ -52,7 +52,7 @@ cli-source = "MorpheApp/morphe-cli"
 uptodown-dlurl = "https://pinterest.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/pinterest"
 
-[Smart Launcher]
+[SmartLauncher]
 enabled = true
 app-name = "Smart Launcher 6 ‧ Home Screen"
 rv-brand = "morphe"
@@ -62,7 +62,7 @@ cli-source = "MorpheApp/morphe-cli"
 uptodown-dlurl = "https://smart-launcher.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/smart-launcher"
 
-[Niagara Launcher]
+[NiagaraLauncher]
 enabled = true
 app-name = "Niagara Launcher ‧ Home Screen"
 rv-brand = "morphe"
