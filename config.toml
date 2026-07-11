@@ -1,7 +1,7 @@
 enable-magisk-update = true
 parallel-jobs = 1
 patches-version = "latest"
-cli-version = "latest"
+cli-version = "auto"
 
 # Use rvmm-config-gen (anymeofu.github.io/rvmm-config-gen) to generate a config.
 # Use Patch Explorer (patch-explorer.web.app) to find patches.
@@ -112,6 +112,7 @@ cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/true-software-scandinavia-ab/truecaller-caller-id-block"
 uptodown-dlurl = "https://truecaller.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/geologically/apks/com.truecaller"
+version = "auto"
 
 [Soundcloud]
 enabled = true
