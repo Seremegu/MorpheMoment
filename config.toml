@@ -34,9 +34,8 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 # From @rodrigoswz
 [Gboard]
 enabled = true
-app-name = "Gboard"
-rv-brand = "jasonwu1994"
-riplib = true
+app-name = "Gboard - the Google Keyboard"
+rv-brand = "morphe"
 arch = "arm64-v8a"
 patches-source = "jasonwu1994/Gboard-patches"
 cli-source = "MorpheApp/morphe-cli"
@@ -46,10 +45,49 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/gboard"
 [Pinterest]
 enabled = true
 app-name = "Pinterest"
-rv-brand = "binarymend"
-riplib = true
+rv-brand = "morphe"
 arch = "arm64-v8a"
 patches-source = "binarymend/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 uptodown-dlurl = "https://pinterest.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/pinterest"
+
+[Smart Launcher]
+enabled = true
+app-name = "Smart Launcher 6 ‧ Home Screen"
+rv-brand = "morphe"
+arch = "arm64-v8a"
+patches-source = "hoo-dles/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+uptodown-dlurl = "https://smart-launcher.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/smart-launcher"
+
+[Niagara Launcher]
+enabled = true
+app-name = "Niagara Launcher ‧ Home Screen"
+rv-brand = "morphe"
+arch = "arm64-v8a"
+patches-source = "hoo-dles/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+uptodown-dlurl = "https://niagara-launcher.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/mellowdrop-studio/niagara-launcher-%f0%9f%94%b9-fresh-clean"
+
+[Truecaller]
+enabled = true
+app-name = "Truecaller: Trusted Caller ID"
+rv-brand = "morphe"
+arch = "arm64-v8a"
+patches-source = "binarymend/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+uptodown-dlurl = "https://truecaller.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/true-software-scandinavia-ab/truecaller-caller-id-block"
+
+[Soundcloud]
+enabled = true
+app-name = "SoundCloud: The Music You Love"
+rv-brand = "morphe"
+arch = "arm64-v8a"
+patches-source = "binarymend/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud"
