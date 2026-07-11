@@ -13,7 +13,7 @@ bash <(curl -sSf https://raw.githubusercontent.com/Seremegu/MorpheMoment/main/bu
 
 ### On Linux
 ```console
-$ git clone https://github.com/elohim-etz/morphe-builder
-$ cd morphe-builder
+$ git clone https://github.com/Seremegu/MorpheMoment
+$ cd MorpheMoment
 $ ./build.sh
 ```
