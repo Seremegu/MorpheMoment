@@ -16,7 +16,7 @@ excluded-patches = "'Announcements' 'Custom branding' 'Enable debugging'"
 patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor=#000000 -e 'Hide Shorts components' -OhideShortsAppShortcut=true -OhideShortsWidget=true"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = https://archive.org/download/geologically/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/geologically/apks/com.google.android.youtube"
 version = "21.25.526"
 
 [Music]
