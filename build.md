@@ -1,7 +1,7 @@
 Gboard: 17.0.10.880768217-release-arm64-v8a  
 Music: 9.26.55  
 NiagaraLauncher: 1.16.7  
-Pinterest: 14.26.0  
+Pinterest: 14.11.0  
 SmartLauncher: 6.6 build 002  
 Soundcloud: 2026.07.03-release  
 Tumblr: 45.3.0.109  
