@@ -16,7 +16,7 @@ excluded-patches = "'Announcements' 'Custom branding' 'Enable debugging'"
 patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor=#000000 -e 'Hide Shorts components' -OhideShortsAppShortcut=true -OhideShortsWidget=true"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = https://archive.org/download/geologically/apks/com.google.android.youtube"
 version = "21.25.526"
 
 [Music]
@@ -30,7 +30,7 @@ excluded-patches = "'Announcements' 'Custom branding' 'Enable debugging'"
 patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor=#000000"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/geologically/apks/com.google.android.apps.youtube.music"
 version = "9.26.55"
 
 # From @rodrigoswz
@@ -53,7 +53,7 @@ patches-source = "binarymend/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 uptodown-dlurl = "https://pinterest.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/pinterest/pinterest-one-destination-for-a-world-of-inspiration"
-version = "14.26.0"
+version = "auto"
 
 [SmartLauncher]
 enabled = true
@@ -107,4 +107,4 @@ patches-source = "arandomhooman/hoomans-morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr"
 uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
-version = "45.3.0.109"
+version = "latest"
