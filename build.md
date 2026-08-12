@@ -1,10 +1,3 @@
-Gboard: 17.7.7.932364120-release-arm64-v8a  
-NiagaraLauncher: 1.16.15  
-Pinterest: 14.28.0  
-Reddit: 2026.14.0  
-SmartLauncher: 6.6 build 014  
-Soundcloud: 2026.07.29-release  
-Tumblr: 45.0.0.109  
 YTMusic: 9.30.52  
 
 Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) for non-root YouTube and YT Music APKs  
@@ -28,5 +21,5 @@ CLI: MorpheApp/morphe-desktop-1.13.0-all.jar
 Patches: MorpheApp/patches-1.39.1.mpp  
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.39.1)
 
-Patches: RookieEnough/patches-1.1.0.mpp  
-[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.1.0)  
+Patches: RookieEnough/patches-1.1.1.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.1.1)  
