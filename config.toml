@@ -18,7 +18,6 @@ patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor=#000000 -e 'Hide Shorts co
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-version = "latest"
 
 [YouTube_ARM-v7a]
 app-name = "YouTube"
@@ -32,7 +31,6 @@ patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor=#000000 -e 'Hide Shorts co
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-version = "latest"
 
 [YTMusic]
 app-name = "YouTube Music"
@@ -46,7 +44,6 @@ patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor=#000000"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-version = "latest"
 
 # From @rodrigoswz
 [Gboard]
@@ -69,7 +66,6 @@ patches-source = "browzomje/browzomje-patches"
 cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/pinterest/pinterest-one-destination-for-a-world-of-inspiration"
 uptodown-dlurl = "https://pinterest.en.uptodown.com/android"
-version = "auto"
 
 [SmartLauncher]
 enabled = true
@@ -90,7 +86,6 @@ patches-source = "RookieEnough/De-Vanced"
 cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio"
 uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
-version = "auto"
 
 [NiagaraLauncher]
 enabled = true
@@ -112,7 +107,6 @@ cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/true-software-scandinavia-ab/truecaller-caller-id-block"
 uptodown-dlurl = "https://truecaller.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/geologically/apks/com.truecaller"
-version = "auto"
 
 [Soundcloud]
 enabled = true
@@ -124,7 +118,6 @@ cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud"
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 included-patches = "'AMOLED dark theme'"
-version = "latest"
 
 [Tumblr]
 enabled = true
