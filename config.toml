@@ -61,6 +61,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 
 # From @rodrigoswz
 [Gboard]
+enabled = false
 app-name = "Gboard"
 rv-brand = "morphe"
 arch = "arm64-v8a"
