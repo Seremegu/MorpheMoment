@@ -32,6 +32,20 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
+[YouTube_Android8]
+app-name = "YouTube"
+patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "Morphe"
+arch = "arm-v7a"
+build-mode = "both"
+excluded-patches = "'Announcements' 'Custom branding' 'Enable debugging'"
+patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor=#000000 -e 'Hide Shorts components' -OhideShortsAppShortcut=true -OhideShortsWidget=true"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+version = "20.26.46"
+
 [YTMusic]
 app-name = "YouTube Music"
 patches-source = "MorpheApp/morphe-patches"
