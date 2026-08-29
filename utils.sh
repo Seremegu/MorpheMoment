@@ -519,10 +519,10 @@ dl_uptodown() {
 	local data_url
 	data_url=$($HTMLQ "#detail-download-button" --attribute data-url <<<"$resp") || return 1
 	if [ $is_bundle = true ]; then
-		req "https://dw.uptodown.net/dwn/${data_url}" "$output.apkm" || return 1
+		req "https://dw.uptodown.com/dwn/${data_url}" "$output.apkm" || return 1
 		merge_splits "${output}.apkm" "${output}"
 	else
-		req "https://dw.uptodown.net/dwn/${data_url}" "$output"
+		req "https://dw.uptodown.com/dwn/${data_url}" "$output"
 	fi
 }
 get_uptodown_pkg_name() { $HTMLQ --text "tr.full:nth-child(1) > td:nth-child(3)" <<<"$__UPTODOWN_RESP_PKG__"; }
